@@ -5,7 +5,7 @@
 * Activites 
 * Fragments
 * Retrofit
-* MVVM 
+* MVC
 * butterKnife 
 * RecylcerView 
 
